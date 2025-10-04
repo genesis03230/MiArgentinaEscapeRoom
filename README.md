@@ -1,5 +1,7 @@
 # 🎲 Mi Argentina – Escape Room Project
 
+![Mi Argentina Portada](https://github.com/user-attachments/assets/98e64618-69cf-4c4c-bc34-9a083eba93a0)
+
 ## 🎯 Overview
 Developed as the **final project for Coderhouse (2022)** in collaboration with a colleague.  
 This escape room was created in just **1 month** and showcased at a Game Jam in Buenos Aires.  
@@ -11,6 +13,14 @@ Although it was a team project, I was responsible for **over 75% of the mechanic
 - **Showcased at:** Game Jam, Buenos Aires (2022)
 
 📺 **[Watch the Full Gameplay on YouTube](https://www.youtube.com/watch?v=wHXztT3A-Bc)**
+
+---
+
+## 🎵 Original Soundtrack
+
+Listen to the **Main Menu Theme** composed for *Mi Argentina*, created to enhance the mysterious and immersive atmosphere of the escape room experience.
+
+[![Listen on SoundCloud](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Soundcloud_logo.svg/512px-Soundcloud_logo.svg.png)](https://soundcloud.com/jonatan-huens/main-menu-theme-mi-argentina-escape-room-ost)
 
 ---
 
