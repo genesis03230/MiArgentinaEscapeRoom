@@ -20,7 +20,7 @@ Although it was a team project, I was responsible for **over 75% of the mechanic
 
 Listen to the **Main Menu Theme** composed for *Mi Argentina*, created to enhance the mysterious and immersive atmosphere of the escape room experience.
 
-[![Listen on SoundCloud](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Soundcloud_logo.svg/512px-Soundcloud_logo.svg.png)](https://soundcloud.com/jonatan-huens/main-menu-theme-mi-argentina-escape-room-ost)
+🎧 [Listen to the main theme on SoundCloud](https://soundcloud.com/jonatan-huens/main-menu-theme-mi-argentina-escape-room-ost)  
 
 ---
 
