@@ -1,4 +1,4 @@
-# 🎲 Mi Argentina – Escape Room Project
+# Mi Argentina – Escape Room Project
 
 ![Mi Argentina Portada](https://github.com/user-attachments/assets/98e64618-69cf-4c4c-bc34-9a083eba93a0)
 
