@@ -10,7 +10,7 @@ Although it was a team project, I was responsible for **over 75% of the mechanic
 - **Engine & Version:** Unity 2021.3.12f1  
 - **Duration:** 1 month  
 - **Recognition:** Top 10 final projects of the course  
-- **Showcased at:** Game Jam, Buenos Aires (2022)
+- **Showcased at:** Game Jam, Buenos Aires (2023)
 
 📺 **[Watch the Full Gameplay on YouTube](https://www.youtube.com/watch?v=wHXztT3A-Bc)**
 
